@@ -1,4 +1,4 @@
-const API_URL = 'http://54.225.11.49:3000/products';
+const API_URL = 'http://3.142.68.136:3000/products';
 
 const productList = document.querySelector('#products');
 const addProductForm = document.querySelector('#add-product-form');
